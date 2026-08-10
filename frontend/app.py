@@ -10,8 +10,7 @@ st.set_page_config(
     page_icon="🩺",
     layout="centered"
 )
-
-API_URL = "https://doctormd.onrender.com"
+API_URL = "http://127.0.0.1:8000"
 
 
 # --------------------------------------------------
