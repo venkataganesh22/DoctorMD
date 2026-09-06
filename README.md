@@ -4,7 +4,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.128.0-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.53.0-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.8.0-F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-DoctorMD-181717.svg?logo=github&logoColor=white)](https://github.com/venkataganesh22/DoctorMD)
 
 **Dr. ML** is an end-to-end Machine Learning web application designed to perform early-stage risk assessment for multiple chronic health conditions, specifically **Heart Disease** and **Diabetes**. 
@@ -280,8 +279,6 @@ FastAPI provides automated, interactive API documentation accessible via:
 
 ---
 
-## 📄 License & Acknowledgements
-
-- **License**: Distributed under the [MIT License](LICENSE).
+## 📄Acknowledgements
 - **Datasets**: Built using public benchmark datasets (Pima Indians Diabetes & UCI Heart Disease repositories).
 - **Author**: [@venkataganesh22](https://github.com/venkataganesh22)
