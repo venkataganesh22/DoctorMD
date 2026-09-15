@@ -1,4 +1,4 @@
-# 🩺 Dr. ML — Multi-Disease Prediction System (DoctorMD)
+# 🩺 DoctorMD — Multi-Disease Prediction System (DoctorMD)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.128.0-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -6,7 +6,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.8.0-F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-DoctorMD-181717.svg?logo=github&logoColor=white)](https://github.com/venkataganesh22/DoctorMD)
 
-**Dr. ML** is an end-to-end Machine Learning web application designed to perform early-stage risk assessment for multiple chronic health conditions, specifically **Heart Disease** and **Diabetes**. 
+**DoctorMD** is an end-to-end Machine Learning web application designed to perform early-stage risk assessment for multiple chronic health conditions, specifically **Heart Disease** and **Diabetes**. 
 
 The system leverages optimized Scikit-learn machine learning pipelines exposed via a robust **FastAPI** REST backend and presented through an interactive, user-friendly **Streamlit** clinical interface.
 
@@ -25,7 +25,7 @@ The system leverages optimized Scikit-learn machine learning pipelines exposed v
 - [Running the Application](#-running-the-application)
 - [API Reference & Documentation](#-api-reference--documentation)
 - [Medical Disclaimer](#-medical-disclaimer)
-- [License & Acknowledgements](#-license--acknowledgements)
+
 
 ---
 
